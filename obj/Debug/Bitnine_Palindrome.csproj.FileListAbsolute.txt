@@ -1,0 +1,7 @@
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\bin\Debug\Bitnine_Palindrome.exe.config
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\bin\Debug\Bitnine_Palindrome.exe
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\bin\Debug\Bitnine_Palindrome.pdb
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\obj\Debug\Bitnine_Palindrome.csproj.AssemblyReference.cache
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\obj\Debug\Bitnine_Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\obj\Debug\Bitnine_Palindrome.exe
+C:\Users\TMaboa\Desktop\Work_Practical\C_Sharp_Practicals\Bitnine_Palindrome\obj\Debug\Bitnine_Palindrome.pdb
